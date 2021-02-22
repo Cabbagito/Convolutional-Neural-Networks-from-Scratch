@@ -33,7 +33,7 @@ ___
 Additional Libraries used: Numpy(matrix operations), tqdm(appearance) and Matplotlib(plotting).
 ___
 
-There are still somethings that need work and can be found [here](https://github.com/Cabbagito/Convolutional-Neural-Networks-from-Scratch/issues "Issues").
+There are still some things that need work and can be found [here](https://github.com/Cabbagito/Convolutional-Neural-Networks-from-Scratch/issues "Issues").
 
 For help with understanding the Backward operation of Convolutions: <br/>
 https://github.com/JeyrajK/convolutional-neural-networks/blob/master/Back%20propagation%20of%20cnn.ipynb <br/>
