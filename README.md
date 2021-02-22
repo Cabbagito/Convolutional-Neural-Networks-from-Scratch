@@ -3,9 +3,8 @@
 
 
 This repo contains a project i did during my second year in college.
-I wanted to have a deeper understanding of how gradients were calculated and backpropagated through the Network and I felt like this would be a good problem to test my skills on.
-
-The project can be divided into 4 parts:
+I wanted to have a deeper understanding of how gradients were calculated and backpropagated through the Network and I felt like if I could implement backprop of a Convolutional Nerual Net that would help me immensely.
+The project can be divided into 3 parts:
 
 * ##### **Optimizers.py**
 * ##### **ConvNetModule.py**
